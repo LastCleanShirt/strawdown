@@ -1,0 +1,29 @@
+{
+  "name": "strawdown",
+  "version": "1.0.0",
+  "description": "Straw Down Markdown Alternative",
+  "main": "sdc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LastCleanShirt/strawdown.git"
+  },
+  "keywords": [
+    "markdown",
+    "alternative"
+  ],
+  "author": "lastcleanshirtdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LastCleanShirt/strawdown/issues"
+  },
+  "bin": {
+    "sdc": "./sdc.js"
+  },
+  "homepage": "https://github.com/LastCleanShirt/strawdown#readme",
+  "dependencies": {
+    "commander": "^7.1.0"
+  }
+}
