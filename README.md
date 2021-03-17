@@ -5,10 +5,17 @@ Markdown language alternative
 - NodeJS and Npm
 - Libraries that are on package.json
 
+## Installing Dependencies
+```shell
+npm install
+```
+
 ### Run
 ```shell
-sdcompile
+sdc <*.sdc file to compile into markdown file *.md>
 ```
+
+
 
 ## Contributing
 Please read [CONTRIBUTING.md](https://github.com/LastCleanShirt/strawdown/CONTRIBUTING.md)
